@@ -1,0 +1,8 @@
+name: Computational-Mathematics
+dependencies:
+ - ipython
+ - jupyter
+ - numpy
+ - scipy
+ - pip:
+   - -r requirements.txt
