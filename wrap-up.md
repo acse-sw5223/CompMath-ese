@@ -8,11 +8,11 @@
 
 A norm on some space is a function which assigns to every entry in that space a size.
 
-- $ \| v \|_2 = \sqrt{v_1^2 + v_2^2 + \ldots + v_n^2} = \left(\sum_{i=1}^n v_i^2 \right)^{1/2}$, two-norm, Euclidean norm
+- $ \| v \|_2 = \sqrt{v_1^2 + v_2^2 + \ldots + v_n^2} = \left(\sum_{i=1}^n v_i^2 \right)^{1/2} $, two-norm, Euclidean norm
 
-- $ \| v \|_1 = |v_1| + |v_2| + \ldots + |v_n| = \sum_{i=1}^n |v_i|$, one-norm, taxi-cab or Manhattan norm
+- $ \| v \|_1 = |v_1| + |v_2| + \ldots + |v_n| = \sum_{i=1}^n |v_i| $, one-norm, taxi-cab or Manhattan norm
 
-- $ \| v \|_{\infty} = \max\{|v_1|,|v_2|, \ldots, |v_n| \} = \max_{i=1}^n |v_i|$, max-norm
+- $ \| v \|_{\infty} = \max\{|v_1|,|v_2|, \ldots, |v_n| \} = \max_{i=1}^n |v_i| $, max-norm
 
 ### 1.2 Log-log error plot
 
