@@ -6,7 +6,7 @@
 
 ### 1.1 Norms
 
-A norm on some space is a function which assigns to every entry in that space a size.
+A norm on some space is a function that assigns to every entry in that space a size.
 
 - $ \| v \|_2 = \sqrt{v_1^2 + v_2^2 + \ldots + v_n^2} = \left(\sum_{i=1}^n v_i^2 \right)^{1/2} $, two-norm, Euclidean norm
 
@@ -20,7 +20,7 @@ A norm on some space is a function which assigns to every entry in that space a 
 
 Similarly, if we get *approximately* a straight line, of *approximate* slope $k$, then we know that $\, y \approx ax^k $.  
 
-Or, if we approach a straight line of splope $p$ in some limit say, then we know that $\, y = \mathcal{O}(x^p) $ in that limit.  This is our case from above.
+Or, if we approach a straight line of slope $p$ in some limit say, then we know that $\, y = \mathcal{O}(x^p) $ in that limit.  This is our case from above.
 
 ## 2. Curve Approximation
 
@@ -46,7 +46,7 @@ Types:
 
 ### 2.2 Regression (Curve fitting)
 
-In this case we do not have an explicit group of points in order, and can consider the data simply as a *cloud of points*, not worrying what order they are in.
+In this case, we do not have an explicit group of points in order, and can consider the data simply as a *cloud of points*, not worrying what order they are in.
 
 ### 2.3 Quadrature
 
